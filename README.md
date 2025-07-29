@@ -15,3 +15,6 @@
         allowfullscreen>
 </iframe>
 ```
+
+## 更多介绍 | Read More
+-看这个 https://zread.ai/Eq52/Ckplayer-Iframe/
